@@ -1,5 +1,6 @@
 # friendly-ai
 Console.WriteLine(" hello i am friendly ai  let's talk what is your name");
+
 Console.ReadLine();
 
 Console.Write(" hi i am friendly robot 1.0");
